@@ -6,7 +6,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-22,00:00,VD,,1782,203,23,,75.0,16,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22
 2020-03-23,15:00,AG,,241,10,3,2.0,,1,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200323_KFS_Coronavirus_Lagebulletin_17.pdf,,,,,,47.40966,8.15688,Aargau,01
 2020-03-23,14:00,BL,,302,,,,,3,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/medienmitteilungen/update-289-bestaetigte-faelle-in-basel-landschaft-1,,,,,,47.45176,7.702414,Basel-Landschaft,13
-2020-03-23,10:00,BS,235,376,56,,,78.0,5,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-376-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-23,18:00,FL,99,51,,,,,,https://www.regierung.li/media/attachments/140-corona-regierung-0323.pdf?t=637205847493377066,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
 2020-03-23,12:00,GE,,1231,214,43,160.0,,9,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,11.0,41.0,5.0,,,46.220528,6.132935,Genève,25
 2020-03-23,18:00,JU,,57,,,,,,https://www.jura.ch/fr/Autorites/Coronavirus/Accueil/Coronavirus-Informations-officielles-a-la-population-jurassienne.html,,,,,,47.350744,7.156107,Jura,26
@@ -18,6 +17,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-23,00:00,VS,,492,4,,,,12,https://www.vs.ch/de/web/coronavirus,,,,,,46.209567,7.604659,Valais,23
 2020-03-24,10:00,AR,,33,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15
 2020-03-24,00:00,BE,,532,,,,,6,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern,02
+2020-03-24,09:00,BS,235,414,58,,,105.0,5,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-414-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-24,00:00,GR,,276,27,,,,6,https://www.gr.ch/DE/institutionen/verwaltung/djsg/ga/coronavirus/info/Seiten/Start.aspx,,,,,,46.656248,9.628198,Graubünden,01
 2020-03-24,11:00,LU,,205,,,,,1,https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03
 2020-03-24,00:00,SH,,32,,,,,,https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Departement-des-Innern/Gesundheitsamt-3209198-DE.html,,,,,,47.71357,8.59167,Schaffhausen,14
