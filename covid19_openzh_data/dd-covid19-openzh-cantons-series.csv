@@ -55,7 +55,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-04,00:00,FR,30,4,,,,,,https://www.fr.ch/sites/default/files/2020-03/200304_CommD_DSAS_covid_cas%20FR.pdf,,,,,,46.718391,7.074008,Fribourg,10
 2020-03-04,00:00,GE,,8,4,0,4.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,,46.220528,6.132935,Genève,25
 2020-03-04,18:00,LU,,0,,,,,,https://web.archive.org/web/20200304173939/https://gesundheit.lu.ch/themen/Humanmedizin/Infektionskrankheiten/Coronavirus,,,,,,47.067763,8.1102,Luzern,03
-2020-03-04,15:38,SG,,2,,,,,,https://www.sg.ch/news/sgch_allgemein/2020/03/zweiter-bestaetigter-fall-einer-corona-patientin.html,,,,,,47.1832,9.274744,St. Gallen,17
+2020-03-04,06:35,SG,,1,,,,,,https://www.sg.ch/news/sgch_allgemein/2020/03/erster-bestaetigter-corona-fall-im-kanton-.html,,,,,,47.1832,9.274744,St. Gallen,17
 2020-03-04,00:00,SZ,3,3,1,,,,,https://www.sz.ch/public/upload/assets/45351/MM_Coronavirus_4_3_2020.pdf,,,,,,47.061787,8.756585,Schwyz,05
 2020-03-04,00:00,TI,,5,,,,,,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187371&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=174f2d754f3b657af79f343c92fc5c89,,,,18.0,,46.295617,8.808924,Ticino,21
 2020-03-04,00:00,VD,,,11,1,,,,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22
@@ -76,6 +76,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-06,14:00,BS,235,15,,,,,,https://twitter.com/BAG_OFSP_UFSP/status/1235934884167852035?s=20,,,,,,47.564869,7.615259,Basel-Stadt,12
 2020-03-06,00:00,FL,22,1,,,,,,https://www.regierung.li/media/attachments/104-coronavirus-vorsicht.pdf?t=637202562374055719,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00
 2020-03-06,00:00,GE,,15,7,0,7.0,,,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,0.0,0.0,,,,46.220528,6.132935,Genève,25
+2020-03-06,15:38,SG,,2,,,,,,https://www.sg.ch/news/sgch_allgemein/2020/03/zweiter-bestaetigter-fall-einer-corona-patientin.html,,,,,,47.1832,9.274744,St. Gallen,17
 2020-03-06,12:00,SO,,1,,,,,,https://so.ch/startseite/aktuell/news/erster-laborbestaetigter-covid-19-fall-im-kanton-solothurn/?tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=3074bbdc8f0fcdcb9f1e11a21fc05e73,,,,,,47.304135,7.639388,Solothurn,11
 2020-03-06,00:00,SZ,6,6,1,,,,,https://www.sz.ch/public/upload/assets/45417/MM_Coronavirus_6_3_2020.pdf,,,,,,47.061787,8.756585,Schwyz,05
 2020-03-06,00:00,TI,,5,,,,,,,,,,45.0,,46.295617,8.808924,Ticino,21
