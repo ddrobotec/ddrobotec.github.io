@@ -3,6 +3,7 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-24,12:00,UR,85,25,1,,,1,,https://www.ur.ch/themen/2920,,,,,,46.771849,8.628586,Uri,04,68.87
 2020-03-24,00:00,VD,,2234,266,46,,100,21,https://www.vd.ch/toutes-les-actualites/hotline-et-informations-sur-le-coronavirus/,,,,,,46.570091,6.557809000000001,Vaud,22,281.68
 2020-03-25,15:00,AG,,319,16,5,5.0,,2,https://www.ag.ch/media/kanton_aargau/themen_1/coronavirus_1/lagebulletins/200325_KFS_Coronavirus_Lagebulletin_19.pdf,,,,,,47.40966,8.15688,Aargau,01,47.54
+2020-03-25,17:00,AI,,9,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,55.9
 2020-03-25,14:00,BL,,341,,,,,5,https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-gesundheit/medizinische-dienste/kantonsarztlicher-dienst/aktuelles/covid-19-faelle-kanton-basel-landschaft,,,,,,47.45176,7.702414,Basel-Landschaft,13,118.82
 2020-03-25,00:00,FL,99,53,,,,,,https://www.regierung.li/media/attachments/145-drive-trouhg-anlage-corona.pdf?t=637207634421649200,,,,,,47.166667,9.509722,Fürstentum Lichtenstein,00,137.31
 2020-03-25,12:00,GE,,1604,258,50,48.0,122,15,https://www.ge.ch/document/covid-19-situation-epidemiologique-geneve/telecharger,,,48.0,18.0,,46.220528,6.132935,Genève,25,323.91
@@ -16,7 +17,6 @@ date,time,abbreviation_canton,tests_performed,total_positive_cases,total_hospita
 2020-03-25,08:00,TI,,1354,306,57,,,60,https://www4.ti.ch/area-media/comunicati/dettaglio-comunicato/?NEWS_ID=187523&tx_tichareamedia_comunicazioni%5Baction%5D=show&tx_tichareamedia_comunicazioni%5Bcontroller%5D=Comunicazioni&cHash=982795a2c13394282accc3a8506c9ba0,68.0,,55.0,,,46.295617,8.808924,Ticino,21,382.81
 2020-03-25,15:00,VS,,651,84,11,9.0,,14,https://www.vs.ch/documents/6756452/7008787/Sit%20Epid%20-%20%C3%89tat%20Stand%2025.03.2020.pdf,,,,,,46.209567,7.604659,Valais,23,190.63
 2020-03-25,9:30,ZH,855,1363,,,,,7,https://gd.zh.ch/internet/gesundheitsdirektion/de/themen/coronavirus.html#title-content-internet-gesundheitsdirektion-de-themen-coronavirus-jcr-content-contentPar-textimage_7,59.0,11,,,,47.41275,8.65508,Zürich,01,90.61
-2020-03-26,00:00,AI,,9,1,,,,,https://www.ai.ch/themen/gesundheit-alter-und-soziales/gesundheitsfoerderung-und-praevention/uebertragbare-krankheiten/coronavirus,,,,,,47.317264,9.416754,Appenzell Innerrhoden,16,55.9
 2020-03-26,08:00,AR,57,40,6,,,,2,https://www.ar.ch/verwaltung/departement-gesundheit-und-soziales/amt-fuer-gesundheit/informationsseite-coronavirus/,,,,,,47.416351999999996,9.36791,Appenzell Ausserrhoden,15,72.46
 2020-03-26,00:00,BE,,660,,,,,7,https://www.besondere-lage.sites.be.ch/besondere-lage_sites/de/index/corona/index.html,,,,,,46.823608,7.636667,Bern,02,64.01
 2020-03-26,10:30,BS,235,505,74,8,,155,12,https://www.coronavirus.bs.ch/nm/2020-tagesbulletin-coronavirus-505-bestaetigte-faelle-im-kanton-basel-stadt-gd.html,,,,,,47.564869,7.615259,Basel-Stadt,12,260.44
